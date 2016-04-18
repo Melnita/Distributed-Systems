@@ -1,0 +1,7 @@
+Steps to run the RMI
+
+1. javac *.java
+2. rmic RMI_Impl
+3. rmiregistry &
+4. java RMI_Server
+5. java RMI_Client ipadress

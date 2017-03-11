@@ -1,1 +1,1 @@
-# qwerty
+Distributed Computing experiments in JAVA
